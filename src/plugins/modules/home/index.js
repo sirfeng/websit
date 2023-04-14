@@ -1,4 +1,4 @@
-import request from "./request";
+import request from "@/plugins/request";
 const url = 'https://a60.ronfu.top'
 export function v1alpha1Plugin(data){
     return request({

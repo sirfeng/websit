@@ -26,7 +26,7 @@
 <script>
 import { reactive, toRefs, ref } from 'vue';
 import { ElMessage } from 'element-plus'
-import { v1alpha1Plugin } from '@/plugins/http.js'
+import { v1alpha1Plugin } from '@/plugins/modules/home/index.js'
 export default {
     setup(props, cxt) {
         const ruleFormRef = ref(null)
