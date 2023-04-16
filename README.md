@@ -8,7 +8,7 @@ Websit is chatgpt plugin hub web project.
 **npm i**
 **npm run dev**
 
-## 目录结构描述
+## Directory structure description
 
 │  .gitignore				git profile
 │  LICENSE 					Open source certification
